@@ -1,0 +1,105 @@
+﻿l_english:
+
+
+# Original English text by Rodahtnov
+
+
+# Prethoryn Scourge ------------------------------------
+
+tech_acemod_crisis_swarm_1: "프레소린 생명체 분석"
+tech_acemod_crisis_swarm_1_desc: "우린 원격으로 프레소린 조직을 조사하고 추출하여 그 이상한 외은하 생명체의 행동양식과 감염제거 방법에 대해 더 많은 정보를 얻을 수 있습니다."
+tech_acemod_crisis_swarm_2: "대 프레소린 용매 배양"
+tech_acemod_crisis_swarm_2_desc: "프레소린은 성계를 공격하거나 이동할때 미생물을 사용하여 근처 유기체나 기술체계를 부식시키고 부패시킵니다. 너무 늦기 전에 해당 피해를 완화하고 복구할 수 있는 일련의 나노 기술을 개발해야합니다."
+tech_acemod_crisis_swarm_3: "대 프레소린 바이러스 응축"
+tech_acemod_crisis_swarm_3_desc: "특수히 설계된 나노봇과 생물학적 바이러스 조합을 사용하여 유기적 수복 없이 모든 프레소린 유기체를 박멸할 수 있습니다, 그들의 함선이 받은 손상은 영구적으로 치유할 수 없어지고 행성 정화가 더 쉬워질 것입니다."
+
+# Extradimensional Invaders (Unbidden) ------------------------------------
+
+tech_acemod_crisis_extradimensional_1: "이차원 소산 분석"
+tech_acemod_crisis_extradimensional_1_desc: "에너지 시그니처를 해석하려는 시도가 방해받을 수 있지만, 우린 이것들이 어떻게 행동하는지 알아야합니다. 그들이 어디에 있고 무엇이며 구성은 어떻게 이루어져 있는지 이해하려면 배의 노력을 기울여야합니다."
+tech_acemod_crisis_extradimensional_2: "대 이차원 과부하"
+tech_acemod_crisis_extradimensional_2_desc: "에너지로 이루어진 이차원체는 물질을 흡수하여 에너지로 전환시키는 특성을 가지고 있습니다. 이 과정은 그들이 약점을 드러내게 하고 우리에게 반격의 실마리를 제공할 수 있습니다. 우리는 임의의 에너지 피크를 생성하여 그들의 물질흡수 용량을 과부하할 수 있습니다. 이 피크를 생성하면 그들의 구성 요소를 단계적으로 제거하고 이차원 원자 구성을 우리차원에 맞게 정렬화시켜 주기적 공격에 취약하게 만듭니다."
+tech_acemod_crisis_extradimensional_3: "대 이차원 엔트로피 에너지"
+tech_acemod_crisis_extradimensional_3_desc: "우리 장비를 개조하여 이차원제의 에너지 구성에 과부화를 가함으로써, 우리는 마침네 미세 에너지 수준에서 시작하여 그들이 이차원존재로 제작하거나 우리 차원에 가져온 모든 이차원체를 불안정하게 만드는 엔트로피 폭팔을 만들 수 있게됬습니다."
+
+# Contingency ------------------------------------
+
+tech_acemod_crisis_extradimensional_ai_empire_1: "우발사태 해킹"
+tech_acemod_crisis_extradimensional_ai_empire_1_desc: "모든 기계와 인공지능이 그러하듯 우발사태 유닛에는 마찬가지로 프로세스에서 백도어를 찾아 읽고,확인하고, 해킹할 수 있는 기본 코드가 있습니다."
+tech_acemod_crisis_extradimensional_ai_empire_2: ""
+tech_acemod_crisis_extradimensional_ai_empire_2_desc: ""
+tech_acemod_crisis_extradimensional_ai_empire_3: ""
+tech_acemod_crisis_extradimensional_ai_empire_3_desc: ""
+
+# Gray Goo (Gray Tempest)------------------------------------
+
+tech_acemod_crisis_goo: ""
+tech_acemod_crisis_goo_desc: ""
+
+# End of the Cycle ------------------------------------
+
+tech_acemod_crisis_eotc: ""
+tech_acemod_crisis_eotc_desc: ""
+
+# Fallen Empires (Awakened Empires)------------------------------------
+
+tech_acemod_crisis_fe: ""
+tech_acemod_crisis_fe_desc: ""
+
+# Debuffs------------------------------------
+
+acemod_crisis_debuff_modifier: ""
+acemod_crisis_debuff_modifier_desc: ""
+acemod_fallen_awakened_empire_debuff_modifier: ""
+acemod_fallen_awakened_empire_debuff_modifier_desc: ""
+
+# Menu------------------------------------
+
+acemod_menu_name: ""
+acemod_menu.1.name: ""
+acemod_menu.1.desc: ""
+acemod_menu.1.a: ""
+acemod_menu.1.a.tooltip: ""
+acemod_menu.1.b: ""
+acemod_menu.1.b.tooltip: ""
+acemod_menu.1.c: ""
+acemod_menu.1.c.tooltip: ""
+acemod_menu.1.d: ""
+acemod_menu.1.d.tooltip: ""
+acemod_menu.1.e: ""
+acemod_menu.1.e.tooltip: ""
+acemod_menu.1.f: ""
+acemod_menu.1.f.tooltip: ""
+acemod_menu.1.g: ""
+acemod_menu.1.g.tooltip: ""
+acemod_menu.1.y: ""
+acemod_menu.1.y.tooltip: ""
+acemod_trigger_yes: ""
+acemod_trigger_no: ""
+acemod_menu.1.z: ""
+acemod_menu_can_disable: ""
+
+# Vanilla addons------------------------------------
+
+ed_dimensional_anchor_key_blue: ""
+ed_dimensional_anchor_key_green: ""
+ed_dimensional_anchor_key_orange: ""
+acemod_defensive_jumpdrive_protocol_cooldown_modifier: ""
+
+# Mod Menu------------------------------------
+
+modmenu_acemod: ""
+
+# Advanced Options menu-----------------------------------
+
+acemod_menu.1.x: ""
+acemod_menu.1.x.tooltip: ""
+acemod_menu.1.x_plain: "고급 옵션"
+acemod_menu.2.name: "$acemod_menu_name$: $acemod_menu.1.x_plain$"
+acemod_menu.2.desc: ""
+acemod_menu.2.a: ""
+acemod_menu.2.a.tooltip: ""
+acemod_menu.2.b: ""
+acemod_menu.2.b.tooltip: ""
+acemod_menu.2.z: ""
+acemod_menu.2.z.tooltip: ""
