@@ -3,8 +3,8 @@
 
 # Menu------------------------------------
 
-acemod_crisis_manager_name: ""
-acemod_crisis_manager.1.name: ""
+acemod_crisis_manager_name: "공격적인 위기 엔진"
+acemod_crisis_manager.1.name: "$acemod_crisis_manager_name$: $acemod_crisis_manager_name_singular$"
 acemod_crisis_manager.1.desc: ""
 acemod_crisis_manager.1.a: ""
 acemod_crisis_manager.1.a.tooltip: ""
