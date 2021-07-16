@@ -1,0 +1,231 @@
+﻿l_english:
+
+
+# Menu------------------------------------
+
+acemod_crisis_manager_name: ""
+acemod_crisis_manager.1.name: ""
+acemod_crisis_manager.1.desc: ""
+acemod_crisis_manager.1.a: ""
+acemod_crisis_manager.1.a.tooltip: ""
+acemod_crisis_manager.1.y: ""
+acemod_crisis_manager.1.y.tooltip: ""
+acemod_crisis_manager.1.z: ""
+acemod_crisis_manager.1.z.tooltip: ""
+acemod_crisis_manager_trigger_yes: ""
+acemod_crisis_manager_trigger_no: ""
+acemod_crisis_manager_trigger_pass: ""
+acemod_crisis_manager_trigger_fail: ""
+acemod_crisis_manager_name_singular: ""
+acemod_crisis_manager_name_plural: ""
+
+# Galaxy Settings------------------------------------
+
+acemod_crisis_manager_blank: ""
+acemod_crisis_manager_unobtainable: ""
+acemod_crisis_manager.4.name: ""
+acemod_crisis_manager.4.desc: ""
+acemod_crisis_manager.4.a: ""
+acemod_crisis_manager.4.a.tooltip: ""
+acemod_crisis_manager_checksum_vanilla: ""
+acemod_crisis_manager_var_country_num_human_players_start: ""
+acemod_crisis_manager_var_country_num_human_players_live: ""
+acemod_crisis_manager_var_country_num_systems: ""
+acemod_crisis_manager_var_country_num_empires: ""
+acemod_crisis_manager_var_country_num_advanced_empires: ""
+acemod_crisis_manager_var_country_num_fallen_empires: ""
+acemod_crisis_manager_var_country_num_marauder_empires: ""
+acemod_crisis_manager_var_country_mid_game_year: ""
+acemod_crisis_manager_var_country_end_game_year: ""
+acemod_crisis_manager_var_country_victory_year: ""
+acemod_crisis_manager_var_country_victory_year_is_off: ""
+acemod_crisis_manager_var_country_victory_year_is_not_off: ""
+acemod_crisis_manager_var_country_num_guaranteed_colonies: ""
+acemod_crisis_manager_var_country_num_gateways: ""
+acemod_crisis_manager_var_country_num_wormhole_pairs: ""
+acemod_crisis_manager_var_country_num_hyperlanes: ""
+acemod_crisis_manager_var_country_habitable_worlds_scale: ""
+acemod_crisis_manager_var_country_primitive_worlds_scale: ""
+acemod_crisis_manager_var_country_crisis_strength_scale: ""
+acemod_crisis_manager_var_country_tech_costs_scale: ""
+acemod_crisis_manager_var_country_is_difficulty: ""
+acemod_crisis_manager_var_country_caravaneers_enabled: ""
+acemod_crisis_manager_var_country_caravaneers_enabled_is_off: ""
+acemod_crisis_manager_var_country_caravaneers_enabled_is_not_off: ""
+acemod_crisis_manager_var_country_xeno_compatibility_enabled: ""
+acemod_crisis_manager_var_country_xeno_compatibility_enabled_is_off: ""
+acemod_crisis_manager_var_country_xeno_compatibility_enabled_is_not_off: ""
+acemod_crisis_manager_var_country_setup_scenario: ""
+
+# GALAXY_SHAPE - unobtainable
+
+acemod_crisis_manager_var_country_scaling_difficulty: ""
+
+# FE_SCALING_DIFFICULTY - unobtainable
+
+acemod_crisis_manager_var_country_scaling_difficulty_is_off: ""
+acemod_crisis_manager_var_country_scaling_difficulty_is_not_off: ""
+acemod_crisis_manager_var_country_scaling_difficulty_is_unobtainable: ""
+acemod_crisis_manager_var_country_scaling_aggressiveness: ""
+
+# FE_AGGRESSIVENESS - unobtainable
+
+acemod_crisis_manager_var_country_advanced_neighbors: ""
+
+# FE_ADVANCED_NEAR_PLAYER - unobtainable
+
+acemod_crisis_manager_var_country_advanced_neighbors_is_off: ""
+acemod_crisis_manager_var_country_advanced_neighbors_is_not_off: ""
+acemod_crisis_manager_var_country_advanced_neighbors_is_unobtainable: ""
+acemod_crisis_manager_var_country_empire_placement: ""
+
+# FE_CLUSTERED_STARTS - unobtainable
+
+acemod_crisis_manager_var_country_empire_placement_is_off: ""
+acemod_crisis_manager_var_country_empire_placement_is_not_off: ""
+acemod_crisis_manager_var_country_empire_placement_is_unobtainable: ""
+acemod_crisis_manager_dlc_check: ""
+acemod_crisis_manager_dlc_check_symbols_of_domination: ""
+acemod_crisis_manager_dlc_check_arachnoid: ""
+acemod_crisis_manager_dlc_check_paradox_account_sign_up_bonus: ""
+acemod_crisis_manager_dlc_check_creaturs_of_the_void: ""
+acemod_crisis_manager_dlc_original_game_soundtrack: ""
+acemod_crisis_manager_dlc_horizon_signal: ""
+acemod_crisis_manager_dlc_horizon_signal_trigger: ""
+
+# Continuation for DLCs released in 2021 and later
+
+acemod_crisis_manager_dlc_check_post_2020: ""
+
+# Game Debugging tool------------------------------------
+
+acemod_crisis_manager_degug_non: ""
+acemod_crisis_manager.7.name: ""
+acemod_crisis_manager_debug_info: ""
+acemod_crisis_manager.7.desc: ""
+acemod_crisis_manager.7.a: ""
+acemod_crisis_manager.7.a.tooltip: ""
+acemod_crisis_manager_name_mods: ""
+acemod_crisis_manager_name_mods_info: ""
+acemod_crisis_manager_name_crisis_master: ""
+acemod_crisis_manager_name_cmt: ""
+acemod_crisis_manager_name_deadly_tempest: ""
+acemod_crisis_manager_name_acot_override: ""
+acemod_crisis_manager_name_nhsc: ""
+acemod_crisis_manager_name_nhsco: ""
+acemod_crisis_manager_name_real_space: ""
+acemod_crisis_manager_name_infinite_stellaris_framework: ""
+acemod_crisis_manager_name_gigastructures: ""
+acemod_crisis_manager_name_acg: ""
+
+# Spawn menu------------------------------------
+
+acemod_crisis_manager.1.g: ""
+acemod_crisis_manager.1.g.tooltip: ""
+acemod_crisis_manager_num_0: ""
+acemod_crisis_manager_num_5: ""
+acemod_crisis_manager_num_10: ""
+acemod_crisis_manager_num_20: ""
+acemod_crisis_manager_num_50: ""
+acemod_crisis_manager_num_100: ""
+acemod_crisis_manager_num_reset: ""
+acemod_crisis_manager_base: ""
+
+# Prethoryn spawn------------------------------------
+
+acemod_crisis_manager.1.d: ""
+acemod_crisis_manager.1.d.tooltip: ""
+acemod_crisis_manager_menu_prethoryn_spawn: ""
+
+# Extradimensional spawn------------------------------------
+
+acemod_crisis_manager.1.e: ""
+acemod_crisis_manager.1.e.tooltip: ""
+acemod_crisis_manager_menu_extradimensional_spawn: ""
+acemod_crisis_manager_menu_extradimensional_1_info: ""
+
+# Contingency spawn------------------------------------
+
+acemod_crisis_manager.1.f: ""
+acemod_crisis_manager.1.f.tooltip: ""
+acemod_crisis_manager_menu_contingency_spawn: ""
+
+# Aberrant spawn------------------------------------
+
+acemod_crisis_manager.1.j: ""
+acemod_crisis_manager.1.j.tooltip: ""
+acemod_crisis_manager_menu_aberrant_spawn: ""
+acemod_crisis_manager_menu_extradimensional_2_info: ""
+
+# Vehement spawn------------------------------------
+
+acemod_crisis_manager.1.k: ""
+acemod_crisis_manager.1.k.tooltip: ""
+acemod_crisis_manager_menu_vehement_spawn: ""
+acemod_crisis_manager_menu_extradimensional_3_info: ""
+
+# Skip Mean Time To Happen MTTH Prethoryn spawn------------------------------------
+
+acemod_crisis_manager.1.h: ""
+acemod_crisis_manager.1.h.tooltip: ""
+
+# Disable Default endgame early start triggers------------------------------------
+
+acemod_crisis_manager.1.l: ""
+acemod_crisis_manager.1.l.tooltip: ""
+
+# Crisis Armies Strength Multiplier------------------------------------
+
+acemod_crisis_manager.1.i: ""
+acemod_crisis_manager.1.i.tooltip: ""
+
+# Reset Crisis Manager settings to default.------------------------------------
+
+acemod_crisis_manager.1.w: ""
+acemod_crisis_manager.1.w.tooltip: ""
+
+# Crisis Manager Advanced Options menu.------------------------------------
+
+acemod_crisis_manager.1.x: ""
+acemod_crisis_manager.1.x.tooltip: ""
+acemod_crisis_manager.1.x_plain: ""
+acemod_crisis_manager.11.name: ""
+acemod_crisis_manager.11.desc: ""
+acemod_crisis_manager.11.z: ""
+acemod_crisis_manager.11.z.tooltip: ""
+acemod_crisis_manager.11.a: ""
+acemod_crisis_manager.11.a.tooltip: ""
+acemod_crisis_manager.11.b: ""
+acemod_crisis_manager.11.b.tooltip: ""
+
+# Debugging tools menu------------------------------------
+
+acemod_crisis_manager.10.name: ""
+acemod_crisis_manager.10.desc: ""
+acemod_crisis_manager.10.a: ""
+acemod_crisis_manager.10.a.tooltip: ""
+acemod_crisis_manager.10.b: ""
+acemod_crisis_manager.10.b.tooltip: ""
+acemod_crisis_manager.10.c: ""
+acemod_crisis_manager.10.c.tooltip: ""
+acemod_crisis_manager.10.z: ""
+acemod_crisis_manager.10.z.tooltip: ""
+
+# ACE Debugging tool------------------------------------
+
+acemod_crisis_manager.8.name: ""
+acemod_crisis_manager.8.disclaimer: ""
+acemod_crisis_manager.8.desc: ""
+acemod_crisis_manager_var_current_end_game_year: ""
+acemod_crisis_manager_var_country_prethoryn_spawned_year: ""
+acemod_crisis_manager_var_country_extradimensional_spawned_year: ""
+acemod_crisis_manager_var_country_contingency_spawned_year: ""
+acemod_crisis_manager_var_country_aberrant_spawned_year: ""
+acemod_crisis_manager_var_country_vehement_spawned_year: ""
+acemod_var_country_acemod_lib_army_strength_modifier_debug_var: ""
+acemod_crisis_manager.8.a: ""
+acemod_crisis_manager.8.a.tooltip: ""
+
+# Mod Menu------------------------------------
+
+modmenu_acemod_crisis_manager: ""
