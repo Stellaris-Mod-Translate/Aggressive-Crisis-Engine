@@ -8,12 +8,12 @@
 
 acemod_lib_menu_can_disable: "$CHANGE$ $MATCHMAKING_SERVER_STATUS_RUNNING$ $GAME$"
 acemod_lib_menu.1.g: "£mod_army_damage_mult£ [root.GetName_acemod_lib_army_strength_modifier]"
-acemod_lib_menu.1.g.tooltip: ""
+acemod_lib_menu.1.g.tooltip: "§R$CRISIS_FACTOR$§!:\n\n$CRISIS_FACTOR$ $COUNTRY_MODIFIER$:\n£mod_army_damage_mult£ [root.GetName_acemod_lib_army_strength_modifier]\n\n디폴트: §G$FE_CRISES$§!\n바닐라: §R$NOT_ACTIVE$§!\n\n$acemod_lib_menu_can_disable$"
 
 # Modifiers-----------------------------------
 
-acemod_lib_army_strength_modifier_use_crisis_strength: ""
-acemod_lib_army_strength_modifier_use_vanilla: ""
+acemod_lib_army_strength_modifier_use_crisis_strength: "$ARMY_POWER_HEADER$ $MODIFIER$ - §G$FE_CRISES$§!"
+acemod_lib_army_strength_modifier_use_vanilla: "$ARMY_POWER_HEADER$ $MODIFIER$ - §R$NOT_ACTIVE$§!"
 acemod_lib_army_strength_modifier_1_25: ""
 acemod_lib_army_strength_modifier_1_50: ""
 acemod_lib_army_strength_modifier_1_75: ""
