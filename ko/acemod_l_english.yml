@@ -26,9 +26,9 @@ tech_acemod_crisis_extradimensional_3_desc: "우리 장비를 개조하여 이�
 
 tech_acemod_crisis_extradimensional_ai_empire_1: "우발사태 해킹"
 tech_acemod_crisis_extradimensional_ai_empire_1_desc: "모든 기계와 인공지능이 그러하듯 우발사태 유닛에는 마찬가지로 프로세스에서 백도어를 찾아 읽고,확인하고, 해킹할 수 있는 기본 코드가 있습니다."
-tech_acemod_crisis_extradimensional_ai_empire_2: ""
-tech_acemod_crisis_extradimensional_ai_empire_2_desc: ""
-tech_acemod_crisis_extradimensional_ai_empire_3: ""
+tech_acemod_crisis_extradimensional_ai_empire_2: "대 우발사태 악성코드"
+tech_acemod_crisis_extradimensional_ai_empire_2_desc: "우발사태 코드의 복잡성은 양자 컴퓨터의 다중 유기적 모방 배열에 기인하지만,자동 프로그래밍 스레드를 발송하고, 중복 명령 및 잘못된 예측 분석 기반 테이터를 우선순위로 매기는 AI 바이러스를 주입하면 악용할 수 있는 몇 가지 약점이 있습니다."
+tech_acemod_crisis_extradimensional_ai_empire_3: "대 우발사태 양자 분열"
 tech_acemod_crisis_extradimensional_ai_empire_3_desc: ""
 
 # Gray Goo (Gray Tempest)------------------------------------
