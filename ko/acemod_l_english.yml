@@ -75,24 +75,24 @@ acemod_menu.1.g.tooltip: "$acemod_lib_menu.1.g.tooltip$"
 acemod_menu.1.y: "§B위기 관리자 구성§! - [root.GetName_acemod_crisis_manager_active]"
 acemod_menu.1.y.tooltip: "활성화, 비활성화 및 구성할 수 있는 BC위기 관리자§!를 엽니다.\n\n§G$ACTIVE$§로 설정하면 작동합니다."
 acemod_trigger_yes: "§G$ACTIVE$§!"
-acemod_trigger_no: ""
-acemod_menu.1.z: ""
-acemod_menu_can_disable: ""
+acemod_trigger_no: "§R$NOT_ACTIVE$§!"
+acemod_menu.1.z: "§Y$SAVE$§!"
+acemod_menu_can_disable: "$CHANGE$ $MATCHMAKING_SERVER_STATUS_RUNNING$ $GAME$"
 
 # Vanilla addons------------------------------------
 
-ed_dimensional_anchor_key_blue: ""
-ed_dimensional_anchor_key_green: ""
-ed_dimensional_anchor_key_orange: ""
-acemod_defensive_jumpdrive_protocol_cooldown_modifier: ""
+ed_dimensional_anchor_key_blue: "$starbase_exd$"
+ed_dimensional_anchor_key_green: "$starbase_exd$"
+ed_dimensional_anchor_key_orange: "$starbase_exd$"
+acemod_defensive_jumpdrive_protocol_cooldown_modifier: "$JUMP_DRIVE_1$"
 
 # Mod Menu------------------------------------
 
-modmenu_acemod: ""
+modmenu_acemod: "$acemod_menu_name$"
 
 # Advanced Options menu-----------------------------------
 
-acemod_menu.1.x: ""
+acemod_menu.1.x: "§E$acemod_menu.1.x_plain$§!"
 acemod_menu.1.x.tooltip: ""
 acemod_menu.1.x_plain: "고급 옵션"
 acemod_menu.2.name: "$acemod_menu_name$: $acemod_menu.1.x_plain$"
