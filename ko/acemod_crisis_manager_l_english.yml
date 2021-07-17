@@ -126,9 +126,9 @@ acemod_crisis_manager_num_0: ""
 acemod_crisis_manager_num_5: "5"
 acemod_crisis_manager_num_10: "10"
 acemod_crisis_manager_num_20: "20"
-acemod_crisis_manager_num_50: ""
-acemod_crisis_manager_num_100: ""
-acemod_crisis_manager_num_reset: ""
+acemod_crisis_manager_num_50: "50"
+acemod_crisis_manager_num_100: "100"
+acemod_crisis_manager_num_reset: "$RESET_DEFAULT$"
 acemod_crisis_manager_base: ""
 
 # Prethoryn spawn------------------------------------
