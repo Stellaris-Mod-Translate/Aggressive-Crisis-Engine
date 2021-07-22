@@ -22,7 +22,7 @@ acemod_crisis_manager_name_plural: "위기 관리자"
 # Galaxy Settings------------------------------------
 
 acemod_crisis_manager_blank: ""
-acemod_crisis_manager_unobtainable: ""
+acemod_crisis_manager_unobtainable: "얻을 수 없는"
 acemod_crisis_manager.4.name: "$GALAXY_SETTINGS$"
 acemod_crisis_manager.4.desc: "[root.GetName_acemod_crisis_manager_var_country_achievements_disabled]\n$FE_IRONMAN$: [root.GetName_acemod_crisis_manager_is_ironman]\n멀티플레이어:[root.GetName_acemod_crisis_manager_is_multiplayer]\n[root.GetName_acemod_crisis_manager_var_country_is_checksum_modified]\n$OUTLINER_PLAYER_COUNTRIES$: $acemod_crisis_manager_var_country_num_human_players_start$ ($START$), $acemod_crisis_manager_var_country_num_human_players_live$ ($SOCIAL_DSTATUS_PLAYING$)\n$acemod_crisis_manager_var_country_num_systems$\n$acemod_crisis_manager_var_country_num_empires$\n$acemod_crisis_manager_var_country_num_advanced_empires$\n$acemod_crisis_manager_var_country_num_fallen_empires$\n$acemod_crisis_manager_var_country_num_marauder_empires$\n$acemod_crisis_manager_var_country_mid_game_year$\n$acemod_crisis_manager_var_country_end_game_year$\n$acemod_crisis_manager_var_country_victory_year$\n$acemod_crisis_manager_var_country_num_guaranteed_colonies$\n$acemod_crisis_manager_var_country_num_gateways$\n$acemod_crisis_manager_var_country_num_wormhole_pairs$\n$acemod_crisis_manager_var_country_num_hyperlanes$\n$acemod_crisis_manager_var_country_habitable_worlds_scale$\n$acemod_crisis_manager_var_country_primitive_worlds_scale$\n$acemod_crisis_manager_var_country_crisis_strength_scale$\n$acemod_crisis_manager_var_country_tech_costs_scale$\n$acemod_crisis_manager_var_country_is_difficulty$\n$acemod_crisis_manager_var_country_caravaneers_enabled$\n$acemod_crisis_manager_var_country_xeno_compatibility_enabled$\n$acemod_crisis_manager_var_country_setup_scenario$\n$acemod_crisis_manager_var_country_scaling_difficulty$\n$acemod_crisis_manager_var_country_scaling_aggressiveness$\n$acemod_crisis_manager_var_country_advanced_neighbors$\n$acemod_crisis_manager_var_country_empire_placement$\n$acemod_crisis_manager_dlc_check$"
 acemod_crisis_manager.4.a: "$MESSAGE_OK$"
@@ -33,7 +33,7 @@ acemod_crisis_manager_var_country_num_human_players_live: "[root.acemod_crisis_m
 acemod_crisis_manager_var_country_num_systems: "$GALAXY_SIZE$: [root.acemod_crisis_manager_var_country_num_systems]"
 acemod_crisis_manager_var_country_num_empires: "$NUM_EMPIRES$: [root.acemod_crisis_manager_var_country_num_empires][root.GetName_acemod_crisis_manager_var_country_num_empires]"
 acemod_crisis_manager_var_country_num_advanced_empires: "$NUM_ADVANCED_EMPIRES$: [root.acemod_crisis_manager_var_country_num_advanced_empires][root.GetName_acemod_crisis_manager_var_country_num_advanced_empires]"
-acemod_crisis_manager_var_country_num_fallen_empires: ""
+acemod_crisis_manager_var_country_num_fallen_empires: "$NUM_FALLEN_EMPIRES$: [root.acemod_crisis_manager_var_country_num_fallen_empires][root.GetName_acemod_crisis_manager_var_country_num_fallen_empires]"
 acemod_crisis_manager_var_country_num_marauder_empires: ""
 acemod_crisis_manager_var_country_mid_game_year: ""
 acemod_crisis_manager_var_country_end_game_year: ""

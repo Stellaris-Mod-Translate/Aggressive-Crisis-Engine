@@ -93,7 +93,7 @@ modmenu_acemod: "$acemod_menu_name$"
 # Advanced Options menu-----------------------------------
 
 acemod_menu.1.x: "§E$acemod_menu.1.x_plain$§!"
-acemod_menu.1.x.tooltip: ""
+acemod_menu.1.x.tooltip: "$acemod_menu.1.x$를 표시합니다. 일반적으로 필요하지 않습니다."
 acemod_menu.1.x_plain: "고급 옵션"
 acemod_menu.2.name: "$acemod_menu_name$: $acemod_menu.1.x_plain$"
 acemod_menu.2.desc: ""
