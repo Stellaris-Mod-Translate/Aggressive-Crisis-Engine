@@ -90,8 +90,8 @@ acemod_crisis_manager_dlc_check_arachnoid: "거미류 초상화 팩"
 acemod_crisis_manager_dlc_check_paradox_account_sign_up_bonus: "Paradox 계정 가입 보너스"
 acemod_crisis_manager_dlc_check_creaturs_of_the_void: "공허의 생물체 초상화 팩"
 acemod_crisis_manager_dlc_original_game_soundtrack: "오리지널 게임 사운드랙"
-acemod_crisis_manager_dlc_horizon_signal: ""
-acemod_crisis_manager_dlc_horizon_signal_trigger: ""
+acemod_crisis_manager_dlc_horizon_signal: "지평 신호"
+acemod_crisis_manager_dlc_horizon_signal_trigger: "412 활성 이벤트로 획득 가능"
 
 # Continuation for DLCs released in 2021 and later
 
