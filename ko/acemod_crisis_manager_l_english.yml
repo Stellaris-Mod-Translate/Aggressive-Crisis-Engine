@@ -121,7 +121,7 @@ acemod_crisis_manager_name_acg: "Aesthetic Cinematic Gameplay"
 # Spawn menu------------------------------------
 
 acemod_crisis_manager.1.g: "연도 값을 변경합니다: [루트. GetName_acemod_crisis_manager_var_country_spawn_time_variable]"
-acemod_crisis_manager.1.g.tooltip: ""
+acemod_crisis_manager.1.g.tooltip: "이 양만큼 위기 스폰 연도 값을 변경합니다."
 acemod_crisis_manager_num_0: ""
 acemod_crisis_manager_num_5: "5"
 acemod_crisis_manager_num_10: "10"
