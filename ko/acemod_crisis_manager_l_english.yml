@@ -129,44 +129,44 @@ acemod_crisis_manager_num_20: "20"
 acemod_crisis_manager_num_50: "50"
 acemod_crisis_manager_num_100: "100"
 acemod_crisis_manager_num_reset: "$RESET_DEFAULT$"
-acemod_crisis_manager_base: ""
+acemod_crisis_manager_base: "§R$기본$§!: 위기는 바닐라 조건하에 스폰될 것입니다. 게임당 최대 한 가지 유형 또는 다른 모드에서 설정한 대로 생성됩니다.\n\n§B대체§!: 연도를 조정하여 위기를 강제 실행합니다.\n$FE_END_GAME$ + $YEARS$ = $CRISIS_FACTOR$ $YEAR$.\n\n당신은 한 가지 이상의 위기를 §B강제 실행§!할 수 있습니다."
 
 # Prethoryn spawn------------------------------------
 
-acemod_crisis_manager.1.d: ""
-acemod_crisis_manager.1.d.tooltip: ""
-acemod_crisis_manager_menu_prethoryn_spawn: ""
+acemod_crisis_manager.1.d: "§G$name_list_Prethoryn$§!: [root.GetName_acemod_crisis_manager_var_country_prethoryn_spawn_time][root.acemod_crisis_manager_var_country_prethoryn_spawn_time] $YEARS$"
+acemod_crisis_manager.1.d.tooltip: "$acemod_crisis_manager_base$"
+acemod_crisis_manager_menu_prethoryn_spawn: "$acemod_crisis_manager_base$"
 
 # Extradimensional spawn------------------------------------
 
-acemod_crisis_manager.1.e: ""
-acemod_crisis_manager.1.e.tooltip: ""
-acemod_crisis_manager_menu_extradimensional_spawn: ""
-acemod_crisis_manager_menu_extradimensional_1_info: ""
+acemod_crisis_manager.1.e: "§M$name_list_Extradimensional$§!: [root.GetName_acemod_crisis_manager_var_country_extradimensional_spawn_time][root.acemod_crisis_manager_var_country_extradimensional_spawn_time] $YEARS$"
+acemod_crisis_manager.1.e.tooltip: "$acemod_crisis_manager_base$\n\n$acemod_crisis_manager_menu_extradimensional_1_info$"
+acemod_crisis_manager_menu_extradimensional_spawn: "$acemod_crisis_manager_base$"
+acemod_crisis_manager_menu_extradimensional_1_info: "§RNote§!:\n§H$extradimensional_invasion_chain_2_title$§! automatically spawn when §M$crisis.1007.name$§! control 15% of the systems. §E$extradimensional_invasion_chain_3_title$§! spawn within few years after §H$extradimensional_invasion_chain_2_title$§!."
 
 # Contingency spawn------------------------------------
 
-acemod_crisis_manager.1.f: ""
-acemod_crisis_manager.1.f.tooltip: ""
-acemod_crisis_manager_menu_contingency_spawn: ""
+acemod_crisis_manager.1.f: "§R$ai_crisis_chain_title$§!: [root.GetName_acemod_crisis_manager_var_country_contingency_spawn_time][root.acemod_crisis_manager_var_country_contingency_spawn_time] $YEARS$"
+acemod_crisis_manager.1.f.tooltip: "$acemod_crisis_manager_base$"
+acemod_crisis_manager_menu_contingency_spawn: "$acemod_crisis_manager_base$"
 
 # Aberrant spawn------------------------------------
 
-acemod_crisis_manager.1.j: ""
-acemod_crisis_manager.1.j.tooltip: ""
-acemod_crisis_manager_menu_aberrant_spawn: ""
-acemod_crisis_manager_menu_extradimensional_2_info: ""
+acemod_crisis_manager.1.j: "§H$extradimensional_invasion_chain_2_title$§!: [root.GetName_acemod_crisis_manager_var_country_aberrant_spawn_time][root.acemod_crisis_manager_var_country_aberrant_spawn_time] $YEARS$"
+acemod_crisis_manager.1.j.tooltip: "$acemod_crisis_manager_base$\n\n$acemod_crisis_manager_menu_extradimensional_2_info$ \n\n$acemod_crisis_manager_menu_extradimensional_1_info$"
+acemod_crisis_manager_menu_aberrant_spawn: "$acemod_crisis_manager_base$"
+acemod_crisis_manager_menu_extradimensional_2_info: "§B$AND_TRIGGER_STARTS$:§!\n[root.GetName_acemod_crisis_manager_extradimensional_base_compare] $IS_NOT_STRING$: §M$name_list_Extradimensional$§! $YEARS$ value equal to §R$BASE$§!.\n[root.GetName_acemod_crisis_manager_extradimensional_aberrant_compare] $IS_STRING$: §H$extradimensional_invasion_chain_2_title$§! $YEARS$ value equal to or $VALUE_GREATER_THAN$value of §M$name_list_Extradimensional$§! $YEARS$.\n[root.GetName_acemod_crisis_manager_extradimensional_invasion_defeated_reverse] $IS_NOT_STRING$: $name_list_Extradimensional$ $crisis.1271.name$."
 
 # Vehement spawn------------------------------------
 
-acemod_crisis_manager.1.k: ""
-acemod_crisis_manager.1.k.tooltip: ""
-acemod_crisis_manager_menu_vehement_spawn: ""
+acemod_crisis_manager.1.k: "§E$extradimensional_invasion_chain_3_title$§!: [root.GetName_acemod_crisis_manager_var_country_vehement_spawn_time][root.acemod_crisis_manager_var_country_vehement_spawn_time] $YEARS$"
+acemod_crisis_manager.1.k.tooltip: "$acemod_crisis_manager_base$\n\n$acemod_crisis_manager_menu_extradimensional_3_info$ \n\n$acemod_crisis_manager_menu_extradimensional_1_info$"
+acemod_crisis_manager_menu_vehement_spawn: "$acemod_crisis_manager_base$"
 acemod_crisis_manager_menu_extradimensional_3_info: "§B$AND_TRIGGER_STARTS$:§!\n[root.GetName_acemod_crisis_manager_extradimensional_base_compare] $IS_NOT_STRING$: §M$name_list_Extradimensional$§! $YEARS$ value equal to §R$BASE$§!.\n[root.GetName_acemod_crisis_manager_aberrant_base_compare] $IS_NOT_STRING$: §H$extradimensional_invasion_chain_2_title$§! $YEARS$ value equal to §R$BASE$§!.\n[root.GetName_acemod_crisis_manager_extradimensional_vehement_compare] $IS_STRING$: §E$extradimensional_invasion_chain_3_title$§! $YEARS$ value equal to or $VALUE_GREATER_THAN$value of §M$name_list_Extradimensional$§! $YEARS$.\n[root.GetName_acemod_crisis_manager_aberrant_vehement_compare] $IS_STRING$: §E$extradimensional_invasion_chain_3_title$§! $YEARS$ value equal to or $VALUE_GREATER_THAN$value of §H$extradimensional_invasion_chain_2_title$§! $YEARS$.\n[root.GetName_acemod_crisis_manager_extradimensional_invasion_defeated_reverse] $IS_NOT_STRING$: $name_list_Extradimensional$ $crisis.1271.name$."
 
 # Skip Mean Time To Happen MTTH Prethoryn spawn------------------------------------
 
-acemod_crisis_manager.1.h: ""
+acemod_crisis_manager.1.h: "$GAME_SPEED_4$ $name_list_Prethoryn$ $GROUND_COMBAT$ $START$ - [root.GetName_acemod_crisis_manager_prethoryn_spawn_skip_mtth_disabled]"
 acemod_crisis_manager.1.h.tooltip: ""
 
 # Disable Default endgame early start triggers------------------------------------
