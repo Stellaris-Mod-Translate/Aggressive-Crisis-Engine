@@ -122,7 +122,7 @@ acemod_crisis_manager_name_acg: "Aesthetic Cinematic Gameplay"
 
 acemod_crisis_manager.1.g: "연도 값을 변경합니다: [루트. GetName_acemod_crisis_manager_var_country_spawn_time_variable]"
 acemod_crisis_manager.1.g.tooltip: "이 양만큼 위기 스폰 연도 값을 변경합니다."
-acemod_crisis_manager_num_0: ""
+acemod_crisis_manager_num_0: "0"
 acemod_crisis_manager_num_5: "5"
 acemod_crisis_manager_num_10: "10"
 acemod_crisis_manager_num_20: "20"
@@ -167,33 +167,33 @@ acemod_crisis_manager_menu_extradimensional_3_info: "§B$AND_TRIGGER_STARTS$:§!
 # Skip Mean Time To Happen MTTH Prethoryn spawn------------------------------------
 
 acemod_crisis_manager.1.h: "$GAME_SPEED_4$ $name_list_Prethoryn$ $GROUND_COMBAT$ $START$ - [root.GetName_acemod_crisis_manager_prethoryn_spawn_skip_mtth_disabled]"
-acemod_crisis_manager.1.h.tooltip: ""
+acemod_crisis_manager.1.h.tooltip: "600개월 MTTH(평균 발생 시간)의 Prethoryn 도착 대기 를 건너뜁니다."
 
 # Disable Default endgame early start triggers------------------------------------
 
-acemod_crisis_manager.1.l: ""
-acemod_crisis_manager.1.l.tooltip: ""
+acemod_crisis_manager.1.l: "(§G$SETTINGS$ $ACTIVE$§!) $DISABLE$ $GAME_SPEED_4$ $CRISIS_FACTOR$ - [root.GetName_acemod_crisis_manager_disable_default_endgame_early_start_triggers]"
+acemod_crisis_manager.1.l.tooltip: "$DISABLE$ $CRISIS_FACTOR$ 스폰 기회 $FE_END_GAME$ 도달 시 $AND$ 조기 $CRISIS_FACTOR$ 시작 트리거 충족(예: $TECH_IS_DANGEROUS$ 연구).\n\n위기 발생 시 $FE_END_GAME$ $AND$ 이후에 끌 수 없음!"
 
 # Crisis Armies Strength Multiplier------------------------------------
 
-acemod_crisis_manager.1.i: ""
-acemod_crisis_manager.1.i.tooltip: ""
+acemod_crisis_manager.1.i: "(§G$SETTINGS$ $ACTIVE$§!) $acemod_lib_menu.1.g$"
+acemod_crisis_manager.1.i.tooltip: "$acemod_lib_menu.1.g.tooltip$"
 
 # Reset Crisis Manager settings to default.------------------------------------
 
-acemod_crisis_manager.1.w: ""
-acemod_crisis_manager.1.w.tooltip: ""
+acemod_crisis_manager.1.w: "$RESET_DEFAULT$"
+acemod_crisis_manager.1.w.tooltip: "§B$acemod_crisis_manager_name_singular$§!:\n$RESET_DEFAULT_TOOLTIP$."
 
 # Crisis Manager Advanced Options menu.------------------------------------
 
-acemod_crisis_manager.1.x: ""
-acemod_crisis_manager.1.x.tooltip: ""
-acemod_crisis_manager.1.x_plain: ""
-acemod_crisis_manager.11.name: ""
-acemod_crisis_manager.11.desc: ""
-acemod_crisis_manager.11.z: ""
-acemod_crisis_manager.11.z.tooltip: ""
-acemod_crisis_manager.11.a: ""
+acemod_crisis_manager.1.x: "§E$acemod_crisis_manager.1.x_plain$§!"
+acemod_crisis_manager.1.x.tooltip: "$acemod_menu.1.x$를 표시합니다. 일반적으로 필요하지 않습니다."
+acemod_crisis_manager.1.x_plain: "고급 옵션"
+acemod_crisis_manager.11.name: "$acemod_menu_name$: $acemod_menu.1.x_plain$"
+acemod_crisis_manager.11.desc: "일반적인 게임 플레이에서 아래 옵션을 변경할 필요는 없습니다."
+acemod_crisis_manager.11.z: "§Y$acemod_crisis_manager_name_singular$ 메뉴로 돌아가기§!"
+acemod_crisis_manager.11.z.tooltip: "$acemod_crisis_manager.1.name$으로 돌아가기"
+acemod_crisis_manager.11.a: "$acemod_crisis_manager_name_acot_override$ 추가 지원 - [root.GetName_acemod_crisis_manager_acot_override_support_disabled_reverse]"
 acemod_crisis_manager.11.a.tooltip: ""
 acemod_crisis_manager.11.b: ""
 acemod_crisis_manager.11.b.tooltip: ""
